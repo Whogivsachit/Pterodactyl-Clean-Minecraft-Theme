@@ -20,9 +20,9 @@ Chitter-Theme is a beautiful dark transparent theme for the most popular game ho
 
 <h4>How Do I Install It?</h4>
 
- Simply run `curl https://raw.githubusercontent.com/TheFonix/Pterodactyl-Themes/master/MasterThemes/BlueBrick/build.sh | sh` in your pterodactyl root folder.
-
- <h2> Install script by TheFonix ( https://github.com/TheFonix/ )</h2>
+	1. Download the extract the files on your computer.
+	2. Upload your files to you pterodactyl panel web installation area.
+	3. Enable the theme in pterodactyl and enjoy.
 
 <h2> Images </h2>
 
